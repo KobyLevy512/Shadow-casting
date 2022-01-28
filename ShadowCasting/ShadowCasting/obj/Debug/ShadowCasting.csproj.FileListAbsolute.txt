@@ -1,0 +1,10 @@
+D:\Projects\c#\ShadowCasting\ShadowCasting\bin\Debug\ShadowCasting.exe.config
+D:\Projects\c#\ShadowCasting\ShadowCasting\bin\Debug\ShadowCasting.exe
+D:\Projects\c#\ShadowCasting\ShadowCasting\bin\Debug\ShadowCasting.pdb
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Debug\ShadowCasting.csproj.AssemblyReference.cache
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Debug\ShadowCasting.Form1.resources
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Debug\ShadowCasting.Properties.Resources.resources
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Debug\ShadowCasting.csproj.GenerateResource.cache
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Debug\ShadowCasting.csproj.CoreCompileInputs.cache
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Debug\ShadowCasting.exe
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Debug\ShadowCasting.pdb

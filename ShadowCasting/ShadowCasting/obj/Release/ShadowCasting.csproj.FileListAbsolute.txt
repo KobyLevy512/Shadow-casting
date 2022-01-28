@@ -1,0 +1,9 @@
+D:\Projects\c#\ShadowCasting\ShadowCasting\bin\Release\ShadowCasting.exe.config
+D:\Projects\c#\ShadowCasting\ShadowCasting\bin\Release\ShadowCasting.exe
+D:\Projects\c#\ShadowCasting\ShadowCasting\bin\Release\ShadowCasting.pdb
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Release\ShadowCasting.Form1.resources
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Release\ShadowCasting.Properties.Resources.resources
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Release\ShadowCasting.csproj.GenerateResource.cache
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Release\ShadowCasting.csproj.CoreCompileInputs.cache
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Release\ShadowCasting.exe
+D:\Projects\c#\ShadowCasting\ShadowCasting\obj\Release\ShadowCasting.pdb
